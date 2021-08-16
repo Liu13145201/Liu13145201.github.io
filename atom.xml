@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My Blog</title>
+  
+  <subtitle>My Blog</subtitle>
+  <link href="https://liu13145201.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://liu13145201.github.io/"/>
+  <updated>2021-08-16T07:52:33.202Z</updated>
+  <id>https://liu13145201.github.io/</id>
+  
+  <author>
+    <name>Liu13145201</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jupyter Notebook更改储存路径及汉化工具栏、安装插件的方法</title>
+    <link href="https://liu13145201.github.io/2021/08/15/jupyter-notebook-bu-fen-wen-ti-jie-jue-fang-an/"/>
+    <id>https://liu13145201.github.io/2021/08/15/jupyter-notebook-bu-fen-wen-ti-jie-jue-fang-an/</id>
+    <published>2021-08-15T05:14:54.048Z</published>
+    <updated>2021-08-16T07:52:33.202Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Jupyter Notebook" scheme="https://liu13145201.github.io/tags/Jupyter-Notebook/"/>
+    
+    <category term="说明" scheme="https://liu13145201.github.io/tags/%E8%AF%B4%E6%98%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇个人博客</title>
+    <link href="https://liu13145201.github.io/2021/08/08/wo-de-di-yi-pian-ge-ren-bo-ke/"/>
+    <id>https://liu13145201.github.io/2021/08/08/wo-de-di-yi-pian-ge-ren-bo-ke/</id>
+    <published>2021-08-08T12:51:31.000Z</published>
+    <updated>2021-08-15T05:35:06.918Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;我的第一篇个人博客&quot;&gt;&lt;a href=&quot;#我的第一篇个人博客&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="杂记" scheme="https://liu13145201.github.io/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://liu13145201.github.io/2021/08/08/hello-world/"/>
+    <id>https://liu13145201.github.io/2021/08/08/hello-world/</id>
+    <published>2021-08-08T12:25:09.478Z</published>
+    <updated>2021-08-15T05:50:36.182Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="说明" scheme="https://liu13145201.github.io/tags/%E8%AF%B4%E6%98%8E/"/>
+    
+  </entry>
+  
+</feed>
